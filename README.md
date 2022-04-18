@@ -7,10 +7,15 @@ This analysis involves dataset of historical lending activity from a peer-to-pee
 Before running the application first install the following dependencies:
 
   pip install pandas
+  
   pip install jupyterlab 
+  
   pip install numpy
+  
   pip install imblearn
+  
   pip install sci-kit learn
+  
   pip instal pathlib
 
 # Usage
