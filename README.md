@@ -21,3 +21,11 @@ Before running the application first install the following dependencies:
 # Usage
 
 To view the analysis, clone the repository using "git clone " and then navigate to the file named credit_risk_resampling.ipynb notebook in the repository directory.
+
+# Contributors
+
+Sean Harrington
+
+# License
+
+# Open Sourced
