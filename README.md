@@ -24,7 +24,7 @@ To view the analysis, clone the repository using "git clone " and then navigate 
 
 # Contributors
 
-Sean Harrington
+Sean Harrington - Linkedin: www.linkedin.com/in/sean-harrington16
 
 # License
 
